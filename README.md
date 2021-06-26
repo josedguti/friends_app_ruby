@@ -1,24 +1,24 @@
-# README
+# Ruby on Rails Friends List
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Friends List App where you can Sign Up, Sign In, and then start adding your contacts to your personal list.
 
-Things you may want to cover:
+## ⚙️ Technologies Used
 
-* Ruby version
+- Ruby
+- Rails
+- HTML5
+- CSS/Bootstrap
+- GitHub
+- Heroku (for deployment)
 
-* System dependencies
+## 📷 Screenshots
 
-* Configuration
+- Website
+![websitepic](app/assets/images/websitepic.png)
 
-* Database creation
+## 🔌 Getting Started
+[Click](https://railsfriends1992.herokuapp.com/) to get started and see the app live!
 
-* Database initialization
+## 🛠 Future Enhancements
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+- Style the website more
